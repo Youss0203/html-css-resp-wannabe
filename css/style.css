@@ -161,8 +161,18 @@ img {
     .steps{
         margin: 3rem 0 0 0;
     }
+    .steps .col {
+        width: 100%
+    }
 
-    .img{
-        width: 50%;
+    .lessons .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+    .why-us .col-right {
+        width: 100%;
     }
  }
